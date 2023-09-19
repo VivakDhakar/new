@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#intro{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(7, 3, 3, 0.94);
+}
+#intro1{
+    border: 2px solid red;
+    height: 100vh;
+
+}
+#drake{
+    border: 1px solid rgba(253, 249, 249, 0.201);
+    width: 25%;
+    height: 650px;
+    margin-top:30px;
+    margin-left: 30px;
+    border-radius: 30px;
+    
+}
+#drake1{
+display: flex;
+}
+#h1drake{
+    color: white;
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: 45px;
+}
+#h4framer{
+    color: white;
+    padding-left: 50px;
+    padding-top: 30px;
+    font-size: 17px;
+    font-family: arial;
+}
+#myimg{
+    width: 280px;
+    height:180px;
+    margin-left: 50px;
+    margin-top: 25px;
+    border-radius: 25px;
+    
+}
+#drakecontent{
+    color: rgba(255, 255, 255, 0.718);
+    padding-left: 35px;
+    padding-top: 25px;
+    font-size: 25px;
+    font-family:"arial";
+    line-height: 35px;
+}
+#drakecontent1{
+    color: white;
+    font-size: 14px;
+    font-family: "arial";
+    color: gray;
+    padding-top: 40px ;
+    padding-left: 70px;
+    
+    
+}
+#icon{
+    font-size: 25px;
+    color: gray;
+    border-radius: 50%;
+    border: 3px solid gray;
+    width: 22px;
+    height: 22px;
+    padding: 15px  ;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 10px;  
+}
+#icon:hover{
+    border: 3px solid #63c97e;
+    color:  #63c97e;
+}
+#icondiv{
+    margin-left: 35px;
+}
+#hiremediv{
+    background-color: #63c97e ;
+    width: 310px;
+    height: 60px;
+    display: flex;
+    
+    margin-left: 30px;
+    border-radius: 100px;
+    margin-top: 30px;
+   position: fixed;
+   
+}
+#hiremediv:hover{
+    background-color: black;
+    color: #63c97e;
+}
+#hireme{
+    
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+
+
+.bx {
+    margin-left: 90px;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
